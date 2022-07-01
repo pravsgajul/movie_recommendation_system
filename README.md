@@ -14,3 +14,10 @@ The Tech Stack that has been used in this project is:
 - FuzzyWuzzy
 - Uvicorn
 - FastAPI.
+
+
+The project contains two python files:
+1. For new users:
+   Depending on the popularity in the rating, top 10 movies would be displayed to the new users as there is no previous data regarding new users.
+2. For returning users:
+   
