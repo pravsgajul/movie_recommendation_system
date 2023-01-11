@@ -20,4 +20,5 @@ The project contains two python files:
 1. For new users:
    Depending on the popularity in the rating, top 10 movies would be displayed to the new users as there is no previous data regarding new users.
 2. For returning users:
+   It uses string matching using FuzzyWuzzy and gives the movies that are the closest to it.
    
